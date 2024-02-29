@@ -1,16 +1,17 @@
-# money_share_project
+# Money Sharing
 
-A new Flutter project.
+Created by Dome Klayudom
 
-## Getting Started
+## ScreenUI
+<img src="https://github.com/DomeKlayudom/money_share_project/assets/141725494/60c6f7cf-f20f-42dd-8e81-1c033d66c1a5" width="125">
+<img src="https://github.com/DomeKlayudom/money_share_project/assets/141725494/9facc91d-851c-4597-be81-caf38e566852" width="125">
+<img src="https://github.com/DomeKlayudom/money_share_project/assets/141725494/3ce3a4dd-a952-4ee3-b69c-1ce993fe1ef8" width="125">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot 2024-02-29 164337](https://github.com/DomeKlayudom/money_share_project/assets/141725494/60c6f7cf-f20f-42dd-8e81-1c033d66c1a5)
+![Screenshot 2024-02-29 164420](https://github.com/DomeKlayudom/money_share_project/assets/141725494/9facc91d-851c-4597-be81-caf38e566852)
+![Screenshot 2024-02-29 164254](https://github.com/DomeKlayudom/money_share_project/assets/141725494/3ce3a4dd-a952-4ee3-b69c-1ce993fe1ef8)
