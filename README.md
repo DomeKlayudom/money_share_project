@@ -9,9 +9,3 @@ Created by Dome Klayudom
 
 
 
-
-
-
-![Screenshot 2024-02-29 164337](https://github.com/DomeKlayudom/money_share_project/assets/141725494/60c6f7cf-f20f-42dd-8e81-1c033d66c1a5)
-![Screenshot 2024-02-29 164420](https://github.com/DomeKlayudom/money_share_project/assets/141725494/9facc91d-851c-4597-be81-caf38e566852)
-![Screenshot 2024-02-29 164254](https://github.com/DomeKlayudom/money_share_project/assets/141725494/3ce3a4dd-a952-4ee3-b69c-1ce993fe1ef8)
